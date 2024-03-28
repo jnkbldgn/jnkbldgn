@@ -6,4 +6,4 @@
 - 🏝️ My work is related to Node.js, Vue ecosystem, Web API's, Html & Css
 - 📨 How to reach me: <a href="mailto:buldygin.em@gmail.com">buldygin.em@gmail.com</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnkbldgn" alt="" role="presentation" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnkbldgn&layout=compact" alt="" role="presentation" />
